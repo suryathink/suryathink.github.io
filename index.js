@@ -19,9 +19,12 @@ const closeMenu = () => {
     <div class="Myslills">
       <ul class="Thechical">
         <li><img src="./img/Reactlogo.png" class="project__logo" alt="React" /></li>
-        <li><img src="./img/spring.png" class="project__logo" alt="Springboot" /></li>
-        <li><img src="./img/mysql.png" class="project__logo" alt="MySql" /></li>
-        <li><img src="./img/hibernate.png" class="project__logo" alt="Hibernate" /></li>
+        <li><img src="./img/Redux-logo.png" class="project__logo" alt="Redux" /></li>
+        <li><img src="./img/nodejs-logo copy.png" class="project__logo" alt="Nodejs" /></li>
+        <li><img src="./img/express-logo.png" class="project__logo" alt="Express" /></li>
+
+        <li><img src="./img/mongodb-logo.png" class="project__logo" alt="MongoDB" /></li>
+
         <li><img src="./img/js-logo.png" class="project__logo" alt="JavaScript" /></li>
         <li><img src="./img/dsa.webp" class="project__logo" alt="DSA" /></li>
         <li><img src="./img/HTML5_Logo_512.png" class="project__logo" alt="HTML" /></li>
@@ -56,6 +59,10 @@ document.getElementById("resume_button_2").addEventListener("click", () => {
 	window.open("https://drive.google.com/file/d/1wpB4xqCoIRlumqVN95RXQl6OEbWncXKe/view?usp=sharing", "_blank");
 
 })
+
+// <!-- html, css, js ,
+// REACT, REDUX,
+// nodejs, express,mongodb,github,chakraUi  -->
 
   const Href = () => {
     let Src = [
