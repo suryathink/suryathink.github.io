@@ -352,7 +352,6 @@ section{
 	display: flex;
 	align-items: center;
 }
-/* krishna */
 header .user img{
     height:17rem;
     width:19rem;
@@ -418,6 +417,9 @@ header .navbar ul li a:hover{
     justify-content: center;
     flex-flow: column;
     padding:0 15rem;
+    /* border: 2px solid red; */
+    margin-top: 3%;
+    text-align: center;
 }
 
 .home h3{
