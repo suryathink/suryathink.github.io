@@ -361,7 +361,11 @@ header .user img{
     margin-bottom: 1rem;
     border:.7rem solid var(--yellow);
 }
-
+  /*  Adding style in User  */
+.user{
+    margin-right: 50px;
+    margin-top: 50px;
+}
 header .user .name{
     font-size: 3.5rem;
     color:#fff;
