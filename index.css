@@ -362,10 +362,10 @@ header .user img{
     border:.7rem solid var(--yellow);
 }
   /*  Adding style in User  */
-#surya-user{
+/* #surya-user{
     margin-right: 50px;
     margin-top: 50px;
-}
+} */
 header .user .name{
     font-size: 3.5rem;
     color:#fff;
@@ -1113,7 +1113,7 @@ span.contrib-number{
     .education{
         margin-top: -100px;
         /* margin-bottom: -180px; */
-        border: 2px solid red;
+        /* border: 2px solid red; */
         margin-bottom: 15%;
     }
     #skills{
