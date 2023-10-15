@@ -362,7 +362,7 @@ header .user img{
     border:.7rem solid var(--yellow);
 }
   /*  Adding style in User  */
-.user{
+#surya-user{
     margin-right: 50px;
     margin-top: 50px;
 }
